@@ -26,8 +26,8 @@ A complete data pipeline using Azure services like ADF, Databricks, Delta Lake, 
 4. Validate SQL warehouse output
 
 
-![Architecture Diagram](C:\Users\sumit\Downloads\linkedin Post\architecture-3.jpg)
-![ADF Pipeline](C:\Users\sumit\Downloads\linkedin Post\ADF_pipeline.png)
-![Databricks pipeline](C:\Users\sumit\Downloads\linkedin Post\databricks workflow.png)
-![Data Model - Star Schema](C:\Users\sumit\Downloads\linkedin Post\Star_Schema.png)
-![Data Visualisation](C:\Users\sumit\Downloads\linkedin Post\visualisation_databricks.png)
+![Architecture Diagram](D:\Course\azure-databricks-data-pipeline\Docs\architecture-3.jpg)
+![ADF Pipeline](Docs/ADF_pipeline.png)
+![Databricks pipeline](D:\Course\azure-databricks-data-pipeline\Docs\databricks workflow.png)
+![Data Model - Star Schema](D:\Course\azure-databricks-data-pipeline\Docs\Star_Schema.png)
+![Data Visualisation](D:\Course\azure-databricks-data-pipeline\Docs\visualisation_databricks.png)
